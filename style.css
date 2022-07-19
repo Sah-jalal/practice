@@ -10,7 +10,6 @@ body{
 }
 @media screen and (max-width: 400px) {
     .main{
-        background-color: red;
         width: 80%;
         justify-content: center;
     }
@@ -58,6 +57,9 @@ body{
     .img-frist img {
         width: 300px;
         height: 300px;
+    }
+    .writing{
+        width: 100%;
     }
     
 }
